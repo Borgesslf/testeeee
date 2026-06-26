@@ -1,4 +1,4 @@
-# 📋 Tpjotobosta
+# 📋 Tpjotob
 Descrição detalhada baseada no enunciado
 👨‍💻 Desenvolvido por Luis Felipe de Oliveira Borges na Universidade Santa Cecília (Unisanta).
 ⚙️ Funcionalidades: 
